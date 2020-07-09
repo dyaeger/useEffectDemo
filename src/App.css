@@ -1,0 +1,23 @@
+.App {
+  padding: 10px;
+}
+
+pre {
+  background-color: #eeeeee;
+  padding: 10px;
+}
+
+
+
+.okay {
+  background-color: rgb(141, 228, 141);
+}
+
+.notokay {
+  background-color: rgb(228, 147, 141);
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-evenly;
+}
